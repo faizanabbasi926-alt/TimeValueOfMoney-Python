@@ -45,7 +45,6 @@ I completed this assignment using **Python** on **Google Colab** with the help o
 - Assignment inspired by online resources and Python documentation  
 
 ---
-“Add full README for TVM assignment”
 
 ## Connect
 - LinkedIn: [Muhammad Faizan Zahid](https://www.linkedin.com/in/muhammad-faizan-zahid)  
